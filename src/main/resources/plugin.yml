@@ -1,0 +1,6 @@
+name: BossBarAPI
+main: top.dreamcity.bossbarapi.BossBarAPI
+version: "1.0.0"
+author: WetABQ
+api: ["1.0.0"]
+description: BossBarAPI
