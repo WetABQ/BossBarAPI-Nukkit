@@ -8,4 +8,4 @@ Simple and practical <br />
 ***暂未更新***<br />
 ## 更新日志:(Update log)<br />
 v1.0.0 完成插件(Make complete)<br />
-**v1.0.1 修复一个无法内部调用this的bug**<br />
+**v1.0.1 修复一个无法内部调用this的bug**(Fixed a bug that could not be invoked by an external static)<br />
